@@ -1,11 +1,13 @@
-Phishing Website Detection ML Pipeline
+# Phishing Website Detection ML Pipeline
 
 ##  Problem Statement
 
 As a new hire to the ML Engineering team at CyberProtect, you have been entrusted with a critical task: protecting the users of CyberProtect from phishing attacks when they are assessing websites on the internet.
 CyberProtect has collected a database of phishing websites and legitimate websites. 
 
-Task: Develop predictive models that can be installed as an extension and predict if a website is a phishing attack and warn the user before allowing the user to access it. Build and evaluate prediction models, and also identify their respective key features of the dataset that categorise whether the website is a phishing attack. 
+Task: Develop predictiv models that can be installed as an extension and predict if a website is a phishing attack and warn the user before allowing the user to access it. Build and evaluate prediction models, and also identify their respective key features of the dataset that categorise whether the website is a phishing attack. 
+
+
 ---
 
 ## 📁 Project Structure
