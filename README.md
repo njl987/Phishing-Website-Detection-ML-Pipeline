@@ -13,7 +13,7 @@ CyberProtect has collected a database of phishing websites and legitimate websit
 ## 📁 Project Structure
 
 ```
-aiap22-ng-jia-li-138H/
+Phishing-Website-Detection-ML-Pipeline/
 ├── data/
 │   └── phishing.db              # SQLite database (downloaded by run.sh)
 ├── src/
@@ -87,7 +87,7 @@ scaler = joblib.load('models/scaler.pkl')
 
 ### Viewing ML Pipeline Results
 
-**For Assessors - GitHub Actions Workflow Logs:**
+**GitHub Actions Workflow Logs:**
 
 When the pipeline runs via GitHub Actions, all outputs are visible in the workflow logs:
 
